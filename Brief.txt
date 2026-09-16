@@ -1,5 +1,0 @@
-Brief:
-
-1. Create a bar graph of all the goals Messi has scored over his career
-2. Create a bar graph of all the goals Ronaldo has scored over his career 
-3. Compare the data
