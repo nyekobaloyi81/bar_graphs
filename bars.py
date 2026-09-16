@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 #Create a bar chart of Messi's goals per season
 
-messi_stats = pd.read_csv('C:\\Users\\nyeko\\Downloads\\coding\\Data_Visualisation\\bar_graphs\\data\\messi_stats.csv')
+messi_stats = pd.read_csv('path\messi_stats.csv')
 
 
 #seasons messi played in
